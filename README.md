@@ -129,14 +129,7 @@ os.environ["GROQ_API_KEY"] = "gsk_BxAjB2mCvwa4aLtl9sm4WGdyb3FYOie2nhu5ly122lljEt
 * Open `JSON_Schema_Classification_&_Information_Extraction.ipynb` → Run cells for JSON classification & extraction.
 
 
-## ✅ Evaluation Mapping
 
-* Task 1: Conversation management, truncation, periodic summarization.
-* Task 2: JSON schema classification + structured outputs.
-* Both tasks implemented separately.
-* No frameworks used.
-* Clear outputs + documentation.
-* Google Colab & GitHub ready.
 
 ```
 
