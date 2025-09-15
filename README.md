@@ -120,7 +120,7 @@ pip install groq openai
 
 ```python
 import os
-os.environ["GROQ_API_KEY"] = "your_api_key_here"
+os.environ["GROQ_API_KEY"] = "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"
 ```
 
 ### 4. Run in Colab
