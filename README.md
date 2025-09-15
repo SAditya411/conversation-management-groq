@@ -1,10 +1,4 @@
 
-conversation-management-groq/
-│
-├── Managing_Conversation_History_with_Summarization.ipynb  # Task 1 Notebook
-├── JSON_Schema_Classification_&_Information_Extraction.ipynb # Task 2 Notebook
-├── README.md                             # Main Documentation
-
 # Conversation Management & Classification using Groq API
 
 This repository implements two core tasks using the **Groq API (OpenAI SDK compatible)**:
