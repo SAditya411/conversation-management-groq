@@ -112,7 +112,7 @@ The project is implemented in **Google Colab Notebooks** (two separate files for
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/conversation-management-groq.git
+git clone https://github.com/SAditya411/conversation-management-groq.git
 cd conversation-management-groq
 ```
 
@@ -126,7 +126,7 @@ pip install groq openai
 
 ```python
 import os
-os.environ["GROQ_API_KEY"] = "your_api_key_here"
+os.environ["GROQ_API_KEY"] = "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 "
 ```
 
 ### 4. Run in Colab
