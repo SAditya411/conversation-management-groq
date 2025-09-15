@@ -106,7 +106,7 @@ The project is implemented in **Google Colab Notebooks** (two separate files for
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/conversation-management-groq.git
+git clone https://github.com/SAditya411/conversation-management-groq.git
 cd conversation-management-groq
 ```
 
